@@ -1,26 +1,22 @@
 [README.txt](https://github.com/user-attachments/files/32603118/README.txt)
 # 친구 퀴즈 멀티플레이
 
-## 1. Firebase 프로젝트 만들기
-Firebase Console에서 새 프로젝트를 만든 뒤 Web App을 추가하세요.
+## 1. 모르겠다
+그니까 이게 뭔지 하나도 모르겠음
 
-## 2. Realtime Database 만들기
-Realtime Database를 만든 다음 아래처럼 테스트용 규칙을 적용하세요.
-주의: 이 규칙은 누구나 데이터에 접근할 수 있으므로 실제 공개 서비스에는 그대로 사용하지 마세요.
+## 2. 이게 뭔데
+나도 모른다.
+이게 뭘까.
 
-{
-  "rules": {
-    ".read": true,
-    ".write": true
-  }
-}
+## 3. ㅁㄴㅇㄹ
+데드락 90% 먹음 쓰봉
 
-## 3. Firebase 설정 넣기
-index.html의 `firebaseConfig`에 Firebase Web App에서 제공되는 설정값을 넣으세요.
+## 4. 흐하하하
+흐하하하하하하하하하하하하
+무하하하하헤하ㅔ하ㅏ헤ㅏ하하하ㅔ하헤ㅏ하ㅔ하ㅣ헤ㅏㅔ헤하ㅔ하하하하ㅔ
 
-## 4. 웹사이트에 올리기
-index.html 하나만 있어도 됩니다.
-GitHub Pages, Netlify, Vercel 등의 정적 호스팅에 업로드하면 됩니다.
+# 규칙
+readme에 규칙이 적혀있어서 그냥 적어놓음
 
 ## 점수 규칙
 참가자 수가 많을수록 기본 점수가 커지고, 정답 제출 순서가 빠를수록 높은 점수를 받습니다.
